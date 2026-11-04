@@ -19,6 +19,5 @@ Repositório destinado à resolução da lista de aplicativos mobile desenvolvid
 ## 📱 Demonstrações
 
 ### Questão 01 - Calculadora de Hidratação
-*(Coloque a imagem do print dentro da pasta `imagens` com o nome `print-q1.png`)*
 
-![Demonstração da Questão 01](./imagens/print-q1.png)
+![Demonstração da Questão 01](./imagens/print-q1.jpeg)

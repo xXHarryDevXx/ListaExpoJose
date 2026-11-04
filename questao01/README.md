@@ -10,7 +10,7 @@
 
 # 
 
-# !\[Demonstração da Questão 01](../imagens/print-q1.jpeg)
+![Demonstração da Questão 01](./print-q1.jpeg)
 
 # 
 
